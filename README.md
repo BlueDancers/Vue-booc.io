@@ -1,6 +1,6 @@
 # 使用Vue 仿照booc.io的在线学习网站
 
-![](http://on7r0tqgu.bkt.clouddn.com/FhtWBszgAQkSK89aRRyK1DoJ76Va.png)
+![](http://on7r0tqgu.bkt.clouddn.com/FhtWBszgAQkSK89aRRyK1DoJ76Va.png)  
 
 这是主页面效果图
 
